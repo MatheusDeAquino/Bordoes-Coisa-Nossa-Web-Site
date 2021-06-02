@@ -18,4 +18,4 @@ Neste site eu criei um sistema em que o usuário ouve o bordão do artista assim
 
 # Autor
 - Matheus de Aquino
-- <a href='https://www.linkedin.com/in/matheus-de-aquino/'>Linkedin</a>
+- <a href='https://www.linkedin.com/in/matheus-de-aquino/' target='_blank'>Linkedin</a>
